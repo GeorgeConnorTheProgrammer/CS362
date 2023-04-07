@@ -11,5 +11,8 @@
     "url": "cs362"
   },
   "author": "Connor Hutchinson",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.5.2"
+  }
 }
